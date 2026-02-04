@@ -310,8 +310,8 @@ export function App() {
 
         {/* Footer */}
         <footer className="text-center text-slate-600 text-xs pt-6 border-t border-slate-800">
-          <p>Painel IoT - Conectado via WebSocket ao HiveMQ Public Broker</p>
-          <p className="mt-1">Comandos: '1' para ligar | '0' para desligar</p>
+          <p>Conectado via WebSocket ao HiveMQ Public Broker</p>
+          <p className="mt-1">Dev Thiago Pereira / 2026</p>
         </footer>
       </div>
     </div>
